@@ -1,2 +1,2 @@
 # Linear_Regression
-Implemented Tensorflow to make train a model and make predictions
+Implemented Tensorflow to train a model and make predictions
